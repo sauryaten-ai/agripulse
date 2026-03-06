@@ -1,0 +1,5 @@
+soil_id,nitrogen,phosphorus,potassium,ph_level
+SOIL_OPT_001,40,30,220,6.5
+SOIL_OPT_002,35,25,210,6.8
+SOIL_OPT_003,45,35,240,6.3
+SOIL_OPT_004,38,28,200,6.6

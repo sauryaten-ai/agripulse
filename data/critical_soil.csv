@@ -1,0 +1,5 @@
+soil_id,nitrogen,phosphorus,potassium,ph_level
+SOIL_CRIT_001,8,6,90,8.2
+SOIL_CRIT_002,5,7,70,4.5
+SOIL_CRIT_003,10,8,80,8.0
+SOIL_CRIT_004,6,5,60,4.2
